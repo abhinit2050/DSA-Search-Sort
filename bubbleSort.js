@@ -19,6 +19,6 @@ function bubbleSort(arr){
     return arr;
 }
 
-let nums = [5, 3, 8, 4, 2];
+let nums = [5, 4, 9, 1, 0];
 let sortedArray = bubbleSort(nums);
 console.log(sortedArray); 
